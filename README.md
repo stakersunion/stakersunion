@@ -1,6 +1,6 @@
 Welcome to the Stakers Union GitHub!
 
-# STAKERS UNION
+# Stakers Union
 The home-stakers collective
 Empowering individual stakers, preserving decentralization
 
