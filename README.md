@@ -12,3 +12,8 @@ The role of solo-stakers cannot be overstated, help us combat the centralizing f
 
 ## Building Partnerships
 Unlock the decentralized computation of our members for your project or application. Our active members are incentivized to provide high-uptime and performance.
+
+## Important Links
+* [Apply](https://www.stakersunion.com/)
+* [Documentation](https://docs.stakersunion.com/)
+* [Governance](https://vote.stakersunion.com/)
